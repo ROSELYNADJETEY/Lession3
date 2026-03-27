@@ -5,7 +5,7 @@ let username = "Roselyn";
 console.log(username);//Roselyn
 
 console.log("what is your age?");
-let age = prompt("what is your age?");
+let ages = prompt("what is your age?");
 console.log(age); 
 
 
